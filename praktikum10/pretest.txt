@@ -1,0 +1,1 @@
+String merupakan tipe variabel yang tidak bisa diubah.

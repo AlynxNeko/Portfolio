@@ -1,0 +1,12 @@
+Cara deklarasi sebuah method adalah dengan menggunakan syntax:
+private/public modifier* returntype* methodName(parameters*) 
+* = optional
+
+E.g.
+public static boolean prime(int x)
+
+private/public -> method hanya bisa dipakai di code tersebut / method bisa dipakai di code lain
+modifiers -> sifat sebuah method (dapat berupa static/final/abstract)
+returntype* -> value yang dapat dikembalikan saat memanggil method (dapat berupa void, int, String, boolean, dll)
+methodName() -> nama dari sebuah method (bebas)
+parameter -> value yang dimasukkan untuk bisa memanggil method

@@ -1,0 +1,4 @@
+1. semua exception yang ada akan ditangkap
+2. tidak bisa tahu exception apa yang ditangkap, sehingga akan susah untuk memberi tahu user error apa yang terjadi
+misal terjadi kesalahan dalam menginput nama sedangkan password sudah benar, maka yang diketahui user hanya mereka salah menginputkan sesuatu, tidak tahu bagian mana
+3. catch berjalan urut, sehingga jika semua exception sudah ditangkap oleh catch (Exception e) maka catch (ArithmeticException a) tidak akan menangkap apa apa

@@ -1,0 +1,3 @@
+Cara memasukkan tipe data primitif ke dalam ArrayList adalah dengan mendeklarasikan terlebih dahulu di arraylist
+tipe data primitif apa yang akan dimasukkan ke dalam arraylist tersebut. Lalu masukkan data primitif menggunakan 
+method namaArrayList.add 
