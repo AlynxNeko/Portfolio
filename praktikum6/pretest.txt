@@ -1,0 +1,5 @@
+kegunaan dari printf adalah dapat mengatur format yang akan di outputkan
+perbedaan dari print dan printf adalah printf() bisa menyelesaikan kalimat terlebih dahulu dengan mengganti
+variabel yang bukan literal menjadi sebuah bentuk %(data type) sehingga mudah untuk dibaca lalu akan memasukkan
+data yang dimaksud di bagian selanjutnya(setelah literal), sedangkan untuk print() jika ingin memasukkan variabel 
+lain yang bukan literal harus diputus dengan '+'

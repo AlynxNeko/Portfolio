@@ -1,0 +1,4 @@
+Array adalah sebuah variabel yang bisa menyimpan banyak data/values sedangkan sebuah variabel
+biasa hanya bisa menyimpan 1 data/values sehingga dengan menggunakan array, kita bisa menghemat 
+menggunakan variabel2 dengan nama yang banyak, dan array lebih mudah untuk diakses secara langsung
+dibandingkan variabel yang banyak (memakai loop).

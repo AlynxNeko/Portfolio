@@ -1,0 +1,5 @@
+1.Perbedaan do while loop dan while loop adalah: whiile loop hanya akan melakukan loop jika kondisi masih terpenuhi (true)
+,sedangkan do while loop akan mengeksekusi programnya terlebih dahulu lalu akan mengecek jika kondisi masih terpenuhi maka akan melakukan loop lagi
+
+2.Gunakan for loop ketika inisialisasi yang dibutuhkan sedikit atau loopingnya tidak membutuhkan variabel banyak yang di pakai
+sedangkan jika variabel yang di pakai banyak (banyak yang di ++ atau --) sebaiknya menggunakan while loop atau do while loop sesuai kebutuhan

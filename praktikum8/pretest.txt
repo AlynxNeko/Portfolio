@@ -1,0 +1,2 @@
+Array 2D merupakan sebuah variabel yang menyimpan sekumpulan array dengan tipe data yang sama didalamnya
+Bentuk penyimpanan dari array 2D adalah sebuah alamat yang mengingat alamat alamat dari array didalamnya

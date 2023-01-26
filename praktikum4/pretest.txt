@@ -1,0 +1,8 @@
+Operator ternary adalah operator yang terdiri dari 3 operand. 
+Operand merupakan variabel atau input yang dipakai di dalam sebuah operator.
+Operator ternary memiliki cara penggunaan yang mirip seperti if-else.
+
+condition ? expression1 : expression2
+
+if condition true, do expression1
+else do expression2
