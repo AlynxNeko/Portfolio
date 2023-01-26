@@ -1,0 +1,4 @@
+Di java, kita bisa membaca isi sebuah file dengan cara mengimport class  File -> java.io.File
+lalu membuka file tersebut dengan cara membuka File baru -> File namaVariabel = new File("namaFile.txt");
+lalu kita memerlukan Scanner agar bisa dimasukkan ke dalam code -> java.io.Scanner
+lalu scanner tersebut mendapatkan input dari file -> Scanner namaScn = new Scanner(namaVariabel);
